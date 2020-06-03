@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Rodnae.Models;
 
-namespace Rodnae.Controllers
+namespace Rodnae.Web.Controllers
 {
     public class HomeController : Controller
     {

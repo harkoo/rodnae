@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rodnae", "Rodnae\Rodnae.csproj", "{949C1242-C9B9-402A-875E-12493B79E5DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rodnae.Web", "Rodnae\Rodnae.Web.csproj", "{949C1242-C9B9-402A-875E-12493B79E5DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rodnae.Domain", "Rodnae.Domain\Rodnae.Domain.csproj", "{1BF0656E-8F0D-4B66-9E51-49081EF9C6DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{949C1242-C9B9-402A-875E-12493B79E5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{949C1242-C9B9-402A-875E-12493B79E5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{949C1242-C9B9-402A-875E-12493B79E5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BF0656E-8F0D-4B66-9E51-49081EF9C6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF0656E-8F0D-4B66-9E51-49081EF9C6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF0656E-8F0D-4B66-9E51-49081EF9C6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF0656E-8F0D-4B66-9E51-49081EF9C6DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
